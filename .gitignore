@@ -14,3 +14,6 @@
 
 # Local backups
 powerplatform/solutions/*_backup_*/
+
+# Ignore local solution backups
+powerplatform/solutions/*_backup_*/
