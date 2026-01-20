@@ -11,3 +11,6 @@
 **/.terraform/
 **/*.tfstate
 **/*.tfstate.*
+
+# Local backups
+powerplatform/solutions/*_backup_*/
