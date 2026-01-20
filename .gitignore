@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# .NET build outputs (plugins/functions later)
+**/bin/
+**/obj/
+
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
